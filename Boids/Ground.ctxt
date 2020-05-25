@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ground
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ground\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Ground()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Ground.\r\n\ \r\n
+comment2.params=n
+comment2.target=void\ populate(int)
+numComments=3
