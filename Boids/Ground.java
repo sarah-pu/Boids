@@ -4,7 +4,7 @@ import javax.swing.*;
 /**
  * Write a description of class Ground here.
  * 
- * @author (your name) 
+ * @author Sarah Pu
  * @version (a version number or a date)
  */
 public class Ground  extends World
