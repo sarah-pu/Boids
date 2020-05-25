@@ -3,7 +3,7 @@ import java.util.*;
 /**
  * Write a description of class Boid here.
  * 
- * @author (your name) 
+ * @author Sarah Pu 
  * @version (a version number or a date)
  */
 public class Boid  extends SmoothMover
